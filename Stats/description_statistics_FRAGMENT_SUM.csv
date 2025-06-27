@@ -1,0 +1,10 @@
+Metric,Value
+Max Description Length (Words),816
+Min Description Length (Words),369
+Mean Description Length (Words),492.87
+Descriptions > Mean Length,36
+Descriptions < Mean Length,64
+Descriptions = Mean Length,0
+Total Descriptions Count,100
+Complete Descriptions,100
+Incomplete Descriptions,0
