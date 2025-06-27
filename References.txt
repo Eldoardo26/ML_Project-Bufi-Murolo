@@ -1,0 +1,80 @@
+References 
+
+CLIP: Learning Transferable Visual Models From Natural Language Supervision
+Authors: Radford, Alec; Kim, Jong Wook; Chen, Chris; Xu, Gerrit; Brockman, Greg; McLeavey, Christine; Sutskever, Ilya
+Publication: arXiv preprint arXiv:2103.00020
+Year: 2021
+URL: https://arxiv.org/abs/2103.00020
+
+CLAP: Learning Audio Concepts From Natural Language Supervision
+Authors: Elizalde, Benjamin; Deshmukh, Soham; Al Ismail, Mahmoud; Wang, Huaming
+Publication: arXiv preprint arXiv:2206.04769
+Year: 2022
+URL: https://arxiv.org/abs/2206.04769
+
+Visual Instruction Tuning
+Authors: Liu, Haotian; Li, Chunyuan; Wu, Qingyang; Fu, Yong Jae
+Publication: arXiv preprint arXiv:2304.08485
+Year: 2023
+URL: https://arxiv.org/abs/2304.08485
+
+LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models
+Authors: Liu, Haotian; Li, Chunyuan; Luo, Fuwen; Xu, Mingda; Dai, Wenliang; Liu, Shilong; Yang, Jianwei; Oguz, Barlas; Chang, Kai-Wei; Liu, Zicheng; Cai, Deng; Fu, Jie; Lee, Yong Jae; Wang, Lijuan; Gao, Jianfeng
+Publication: arXiv preprint arXiv:2407.07895
+Year: 2024
+URL: https://arxiv.org/abs/2407.07895
+
+Qwen2.5-VL: The New Vision Language Model from Qwen Team
+Authors: Qwen Team
+Publication: arXiv preprint arXiv:2502.13923
+Year: 2025
+URL: https://arxiv.org/abs/2502.13923
+
+Qwen2-Audio Technical Report
+Authors: Chen, Yangyi; Li, Peng; Liu, Shuai; Bao, Yu; Liu, Xiaoyu; Qiao, Yi; Tian, Shuxin; Ding, Jiayu; Zhang, Xiangyu; Bi, Bin; Li, Chuanze; Wang, Yan; Yang, Jian; Tang, Tianyi; Zhang, Yang; Wang, Jingdong; Zhang, Jian; Li, Yuxin; Wu, Xiangyu; Liu, Jiaming; Ma, Jian; Xia, Zhichao; Zhang, Haipeng; Yang, Hao; Zhao, Rui; Zhang, Shiyi; Su, Yipeng; Li, Jianguo
+Publication: arXiv preprint arXiv:2407.10759
+Year: 2024
+URL: https://arxiv.org/abs/2407.10759
+
+LP-MusicCaps: Boosting Music Captioning with a Large Pool of Pseudo-Captions
+Authors: Doh, SeungHeon; Jung, Gyeong-su; Lee, MinJae; Kim, Hyeong-Won; Lee, Sang-Gil
+Publication: arXiv preprint arXiv:2402.09117
+Year: 2024
+URL: https://arxiv.org/abs/2402.09117
+
+Qwen2.5-Omni: Towards a General-Purpose Multimodal Large Language Model
+Authors: Qwen Team
+Publication: arXiv preprint arXiv:2503.20215
+Year: 2025
+URL: https://arxiv.org/abs/2503.20215
+
+BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
+Authors: Li, Junnan; Li, Dongxu; Savarese, Caiming; Hoi, Steven C.H.
+Publication: arXiv preprint arXiv:2201.1072
+Year: 2022
+URL: https://arxiv.org/abs/2201.1072
+
+ArtGraph
+Authors: Castellano, Giovanna; Digeno, Vincenzo; Sansaro, Giovanni; Scaringi, Raffaele; Vessio, Gennaro
+Publication: Zenodo
+Year: 2023
+DOI: 10.5281/zenodo.8172374
+URL: https://zenodo.org/records/8172374
+
+FMA: A Dataset For Music Analysis
+Authors: Defferrard, Michaël; Benzi, Kirell; Vandergheynst, Pierre; Bresson, Xavier
+Publication: Proceedings of the 18th International Society for Music Information Retrieval Conference (ISMIR)
+Year: 2017
+
+URL: https://arxiv.org/abs/1612.05971
+Qwen3 Technical Report
+Authors: Qwen Team
+Publication: arXiv preprint arXiv:2505.09388
+Year: 2025
+URL: https://arxiv.org/abs/2505.09388
+
+ImageBind: One Embedding Space To Bind Them All
+Authors: Girdhar, Rohit; Singh, Alaeddine; Younes, Azade; Alwala, Kalyan Vasudev; Gong, Alibaba; Glass, Andrew; Nagal, Ulises; Kim, Hyeon; Pereira, Fidel; Xu, Saining; and others
+Publication: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Year: 2023
+URL: https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html
